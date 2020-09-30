@@ -1,0 +1,23 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "Learning express framework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muskaanpal05/my-express-server.git"
+  },
+  "author": "Muskaan Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muskaanpal05/my-express-server/issues"
+  },
+  "homepage": "https://github.com/Muskaanpal05/my-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
